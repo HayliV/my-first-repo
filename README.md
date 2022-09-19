@@ -7,3 +7,5 @@ I made this change in the browser
 second person added line
 
 This is a new line
+
+The final change
